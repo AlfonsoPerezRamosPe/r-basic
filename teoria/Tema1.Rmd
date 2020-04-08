@@ -6,7 +6,6 @@ output:
     widescreen: true
     css: JB_style.css
     logo: Imgs/LogoCurso.png
-    
 ---
 
 ```{r setup, include=FALSE}
